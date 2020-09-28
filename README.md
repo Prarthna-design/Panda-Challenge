@@ -1,2 +1,2 @@
 # Panda-Challenge
-Firat Panda Project
+First Panda Project
